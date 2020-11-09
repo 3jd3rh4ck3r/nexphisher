@@ -1,5 +1,9 @@
+## Find Fikrado on :
+[![Github](https://img.shields.io/badge/Github-fikrado-yellow?style=for-the-badge&logo=github)](https://github.com/fikrado)
+[![Instagram](https://img.shields.io/badge/IG-%40mr__yahye-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/mr__yahe)
+[![Messenger](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/fikrado_hacker)
+[![Facebook](https://img.shields.io/badge/facebook-black?style=for-the-badge&logo=Facebook)](https://facebook.com/fikrado4048063)
 
-[!mn[Twitter Follow](https://img.shields.io/twitter/follow/mr__yahye?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmr__yahye&screen_name=mr__yahye)
 
 ## 𝙏𝙀𝙍𝙈𝙐𝙓 𝘼𝙉𝘿 𝙇𝙄𝙉𝙐𝙓 𝘼𝘿𝙑𝘼𝙉𝘾𝙀 𝙋𝙃𝙄𝙎𝙃𝙄𝙉𝙂 𝙏𝙊𝙊𝙇 
 
