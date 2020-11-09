@@ -8,9 +8,12 @@
 * `apt install git -y`
 * `git clone git://github.com/fikrado/nexphisher.git`
 * `cd nexphisher`
-#### > SETUP : `bash setup`
-#### > SETUP [TERMUX] : `bash tmux_setup`
-#### > Run : `bash nexphisher`
+* `bash setup`
+* `bash tmux_setup`
+* `bash nexphisher`
+
+
+
 
 ## Single Command :
 ```
