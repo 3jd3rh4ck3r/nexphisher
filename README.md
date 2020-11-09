@@ -1,7 +1,7 @@
 
 [!mn[Twitter Follow](https://img.shields.io/twitter/follow/mr__yahye?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmr__yahye&screen_name=mr__yahye)
 
-## Creat by HACKER SOMALI AKA MR__YAHYE
+## 𝙏𝙀𝙍𝙈𝙐𝙓 𝘼𝙉𝘿 𝙇𝙄𝙉𝙐𝙓 𝘼𝘿𝙑𝘼𝙉𝘾𝙀 𝙋𝙃𝙄𝙎𝙃𝙄𝙉𝙂 𝙏𝙊𝙊𝙇 
 
 
 * `apt update`
