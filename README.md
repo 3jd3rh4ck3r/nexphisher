@@ -6,7 +6,7 @@
 
 * `apt update`
 * `apt install git -y`
-* `git clone git://github.com/fikrado/nexphisher.git`
+* `git clone https://github.com/fikrado/nexphisher.git`
 * `cd nexphisher`
 * `bash setup`
 * `bash tmux_setup`
