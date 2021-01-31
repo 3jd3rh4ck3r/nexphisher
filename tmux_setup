@@ -20,7 +20,7 @@ printf "\e[0m\n"
 apt update
 apt upgrade -y
 apt install curl -y
-apt install openssh -y
+apt install ssh -y
 apt install php -y
 apt install unzip -y
 printf "\e[0m\n"
